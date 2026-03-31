@@ -1,12 +1,38 @@
-# 💫 About Me:
-Olá, me chamo João Pedro Nunes Rodrigues!<br><br>Atualmente sou estudante de Ciências da Computação (2° Semestre) na UnB - Universidade de Brasília<br>Tenho 18 anos e desejo ser um desenvolvedor de softwares no futuro!
+# Olá, eu sou o João Pedro! 👋
 
+### 🎓 Estudante de Ciência da Computação @ UnB (2º Semestre)
+Sou um entusiasta de tecnologia de 18 anos, focado em aprender os fundamentos da computação e evoluir como desenvolvedor de software. Atualmente, dedico meus estudos a algoritmos, estrutura de dados e arquitetura de sistemas.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joaopnr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaopnr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jpnrodrigues2007@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+## 🛠️ Minhas Tecnologias:
+
+### 💻 Linguagens & Core
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🌐 Web & Design
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 📈 Estatísticas do GitHub
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopnr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopnr&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaopnr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaopnr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpnrodrigues2007@gmail.com)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=joaopnr&icon=0&color=0)](https://visitcount.itsvg.in)
