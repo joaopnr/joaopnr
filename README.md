@@ -1,11 +1,13 @@
-# Olá, eu sou o João Pedro! 👋
+# Olá, eu sou o João! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+C+em+formação;Entusiasta+de+Hardware">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=17C27C&width=435&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+de+sistemas+em+formação">
 </p>
 
-### 🎓 Estudante de Ciência da Computação @ UnB (2º Semestre)
-Sou um entusiasta de tecnologia de 18 anos, focado em aprender os fundamentos da computação e evoluir como desenvolvedor de software. Atualmente, dedico meus estudos a algoritmos, estrutura de dados e arquitetura de sistemas.
+- 🏫 Estudante de **Ciência da Computação** na **UnB - Universidade de Brasília** (2º Semestre).
+- 🚀 Apaixonado por entender como o software conversa com o hardware.
+- 🎯 Objetivo: Me tornar um Desenvolvedor de Software focado em performance e código limpo.
+- ⌚ Atualmente, dedico meus estudos a algoritmos, estrutura de dados e arquitetura de sistemas.
 
 ---
 
@@ -24,21 +26,19 @@ Sou um entusiasta de tecnologia de 18 anos, focado em aprender os fundamentos da
 
 ---
 
-## 📈 Estatísticas do GitHub
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopnr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopnr&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+### 🚀 Projetos em Destaque
+- **[Wordz](https://github.com/joaopnr/wordz):** Jogo de adivinhação de palavras desenvolvido em C com foco em lógica e manipulação de strings.
 
 ---
 
-## 🌐 Vamos nos conectar?
+## 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaopnr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaopnr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaopnr_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpnrodrigues2007@gmail.com)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=joaopnr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=joaopnr&icon=0&color=0" />
+</p>
