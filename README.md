@@ -1,5 +1,9 @@
 # Olá, eu sou o João Pedro! 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+C+em+formação;Entusiasta+de+Hardware">
+</p>
+
 ### 🎓 Estudante de Ciência da Computação @ UnB (2º Semestre)
 Sou um entusiasta de tecnologia de 18 anos, focado em aprender os fundamentos da computação e evoluir como desenvolvedor de software. Atualmente, dedico meus estudos a algoritmos, estrutura de dados e arquitetura de sistemas.
 
