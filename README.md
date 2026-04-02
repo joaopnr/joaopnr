@@ -5,6 +5,7 @@
 </p>
 
 - 🏫 Estudante de **Ciência da Computação** na **UnB - Universidade de Brasília** (2º Semestre).
+- 📗 Estudante de **Análise e Desenvolvimento de Sistemas** no **GranCursos** (3º Semestre).
 - 🚀 Apaixonado por entender como o software conversa com o hardware.
 - 🎯 Objetivo: Me tornar um Desenvolvedor de Software focado em performance e código limpo.
 - ⌚ Atualmente, dedico meus estudos a algoritmos, estrutura de dados e arquitetura de sistemas.
