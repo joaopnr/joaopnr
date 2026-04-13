@@ -1,14 +1,10 @@
-# Olá, eu sou o João! 👋
+# Olá! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=17C27C&width=435&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+de+sistemas+em+formação">
 </p>
 
-- 🏫 Estudante de **Ciência da Computação** na **UnB - Universidade de Brasília** (2º Semestre).
-- 📗 Estudante de **Análise e Desenvolvimento de Sistemas** no **GranCursos** (3º Semestre).
-- 🚀 Apaixonado por entender como o software conversa com o hardware.
-- 🎯 Objetivo: Me tornar um Desenvolvedor de Software focado em performance e código limpo.
-- ⌚ Atualmente, dedico meus estudos a algoritmos, estrutura de dados e arquitetura de sistemas.
+Me chamo João, tenho 19 anos e sou estudande de __Ciência da Computação__ na **Universidade de Brasília** e __Análise e Desenvolvimento de Sistemas__ no **GranCursos**. Sou apaixonado por tecnologia e busco constantemente evoluir, com o objetivo de me tornar um programador de alto nível!
 
 ---
 
