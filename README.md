@@ -25,7 +25,10 @@ Me chamo João, tenho 19 anos e sou estudande de __Ciência da Computação__ na
 ---
 
 ### 🚀 Projetos em Destaque
-- **[Wordz](https://github.com/joaopnr/wordz):** Jogo de adivinhação de palavras desenvolvido em C com foco em lógica e manipulação de strings.
+
+- **[Wordz](https://github.com/joaopnr/wordz):** Jogo de advinhação de palavras em **C** com persistência de dados, manipulação de arquivos e lógica de programação.
+
+- **[Genius](https://github.com/joaopnr/Genius):** Jogo da memória Simon/Genius em FPGA utilizando **SystemVerilog**, FSM e LFSR. 
 
 ---
 
